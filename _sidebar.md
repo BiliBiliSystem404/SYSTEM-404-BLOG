@@ -1,4 +1,4 @@
-<!-- _sidebar.md -->
+<!--MyPublicWeb/_sidebar.md -->
 
 * Typora+Docsify使用指南
   * [Docsify使用指南](/ProjectDocs/Docsify使用指南.md) <!--注意这里是相对路径-->
