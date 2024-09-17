@@ -24,10 +24,10 @@
 
 ***
 
-   >2.解决方案<br/>
-   https://pan.baidu.com/s/1zKOuNW2iz9alfei3zBA2jQ 提取码: damf<br/>
-   下载文件后，打开VENTOYEFI把文件复制进去，再把grub.efi改为grubx64.efi<br/>
-   再次重新启动即可<br/>
+  >  2.解决方案<br/>
+     https://pan.baidu.com/s/1zKOuNW2iz9alfei3zBA2jQ 提取码: damf<br/>
+     下载文件后，打开VENTOYEFI把文件复制进去，再把grub.efi改为grubx64.efi<br/>
+     再次重新启动即可<br/>
 
 
 
