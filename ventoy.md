@@ -22,6 +22,8 @@
   	https://en.opensuse.org/openSUSE:UEFI#Reset_SBAT_string_for_booting_to_old_shim_in_old_Leap_image<br/>
   	https://koji.fedoraproject.org/koji/buildinfo?buildID=2423319<br/>
 
+***
+
   >2.解决方案<br/>
   https://pan.baidu.com/s/1zKOuNW2iz9alfei3zBA2jQ 提取码: damf<br/>
   下载文件后，打开VENTOYEFI把文件复制进去，再把grub.efi改为grubx64.efi<br/>
