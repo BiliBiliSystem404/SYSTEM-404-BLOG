@@ -1,8 +1,8 @@
 - 关于ventoy引导失败SBAT data failed
 
-  1. 原因
+ > 1. 原因
 
-     >(这里引用GitHub上的原文：https://github.com/ventoy/Ventoy/issues/2692）
+    (这里引用GitHub上的原文：https://github.com/ventoy/Ventoy/issues/2692）
 >- Warning, wall of text (sorry!): Here's what I've learned: Ventoy needs to update to Shim 15.8 because some systems were updated to that.
   警告，文字墙（抱歉！这是我学到的：Ventoy 需要更新到 Shim 15.8，因为一些系统已经更新到该版本。<br/>
 >- I did a ton of research and from what I've found, it seems that in early February, Shim 15.8 was pushed out to address some security problems, and one of the things it does when installed is that it makes the system not be able to boot older Shim versions because they have security problems.<br/>
