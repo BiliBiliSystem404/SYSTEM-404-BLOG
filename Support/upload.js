@@ -4,7 +4,7 @@ function uploadFile() {
 
     if (file) {
         var xhr = new XMLHttpRequest();
-        xhr.open('POST', 'http://47.243.239.246:443/upload', true);
+        xhr.open('POST', 'http://47.243.239.246:443/wangzhan/templates/upload', true);
 
         xhr.onload = function () {
             if (xhr.status === 200) {
