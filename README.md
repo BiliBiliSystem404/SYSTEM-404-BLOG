@@ -4,7 +4,7 @@
 
 ### 我的代码下载：
 
-##### **myOS**:
+##### **myOS**(只有hello world):
 
 - [myOSv0.1](https://pan.baidu.com/s/1SYKJTF271SvS2DyxIbzLOA?pwd=myOS)
 - [myOSv0.2](https://pan.baidu.com/s/1mbFOglcFQMtrxcpDttPFIA?pwd=myOS)
