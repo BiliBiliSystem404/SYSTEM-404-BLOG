@@ -1,4 +1,3 @@
-请dynadot客服将已被我遗忘的用户名发给我 邮箱：3789212033@qq.com
 
 # **个人介绍**
 
@@ -16,4 +15,6 @@
 
 - [github链接](https://github.com/oyy114/student/releases)
 
+##### **我的病毒:**
+- [github链接](https://github.com/BiliBiliSystem404/SuperVirus/)
 ​	
